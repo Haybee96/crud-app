@@ -34,8 +34,4 @@
 
 ### Hosted link
 
-<<<<<<< HEAD
 View hosted link here: https://user-data-zuri.herokuapp.com/api/v1/users
-=======
-View hosted link here: https://user-data-zuri.herokuapp.com/api/v1/users.
->>>>>>> 5d23118a8d5249ed9f2f7bc117a9882dbe3f6cdb
