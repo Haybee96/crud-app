@@ -34,4 +34,4 @@
 
 ### Hosted link
 
-View hosted link here: https://domain.com/.
+View hosted link here: https://domain.com/
