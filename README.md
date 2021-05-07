@@ -34,4 +34,4 @@
 
 ### Hosted link
 
-View hosted link here: https://domain.com/.
+View hosted link here: https://user-data-zuri.herokuapp.com/api/v1/users.
