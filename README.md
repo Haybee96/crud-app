@@ -26,6 +26,12 @@
 /PATCH http://127.0.0.1:7100/api/v1/users/:id
 ```
 
+### DELETE request to delete user based on the ID
+
+```
+/DELETE http://127.0.0.1:7100/api/v1/users/:id
+```
+
 ### Hosted link
 
 View hosted link here: https://domain.com/.
